@@ -13,7 +13,7 @@
 ## Run consumer CLI, take a screenshot
 (5.) run `kafka-console-consumer --bootstrap-server localhost:9092 --topic police_calls --from-beginning`
 
-![Screenshot 1](MandatoryScreenshot.jpg)
+![Screenshot 1](MandatoryScreenshot.1.jpg)
 
 ## Step 2
 (6.) 
