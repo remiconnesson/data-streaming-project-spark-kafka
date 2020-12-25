@@ -1,5 +1,13 @@
 # data-streaming-project-spark-kafka
 
+## Answer to Question 1 
+Changing `maxOffsetsPerTrigger` will influence throughput and latency depending of if you set it at a high value or a low.
+
+## Answer to Question 2
+On the job, we could modify partitions and parallelism but it will not do any good in local mode.
+From my experimentations increasing `maxOffsetsPerTrigger` increases `processedRowsPerSecond`
+
+
 ## Step 1
 
 (1.) run `/usr/bin/zookeeper-server-start config/zookeeper.properties`, keep running, open new terminal
