@@ -1,6 +1,6 @@
 # data-streaming-project-spark-kafka
 
-## Steps 
+## Step 1
 
 (1.) run `/usr/bin/zookeeper-server-start config/zookeeper.properties`, keep running, open new terminal
 (2.) run `/usr/bin/kafka-server-start config/server.properties`, keep running, open new terminal
@@ -12,3 +12,5 @@
 
 ![Screenshot 1](MandatoryScreenshot.jpg)
 
+## Step 2
+(6.) 
