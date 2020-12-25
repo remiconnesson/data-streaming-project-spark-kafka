@@ -23,5 +23,6 @@
 ![Screenshot 2](MandatoryScreenshot.2.jpg)
 
 (8.) open the Spark UI, click on "event timeline" to show the timeline
+
 ![Screenshot 3](MandatoryScreenshot.3.jpg)
 
