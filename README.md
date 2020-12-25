@@ -3,8 +3,11 @@
 ## Step 1
 
 (1.) run `/usr/bin/zookeeper-server-start config/zookeeper.properties`, keep running, open new terminal
+
 (2.) run `/usr/bin/kafka-server-start config/server.properties`, keep running, open new terminal
+
 (3.) run `./start.sh`
+
 (4.) run `python kafka_server.py`
 
 ## Run consumer CLI, take a screenshot
